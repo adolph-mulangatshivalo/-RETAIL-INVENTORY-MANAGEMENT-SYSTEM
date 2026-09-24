@@ -1,0 +1,5 @@
+001,COKE,DRINKS,30.0,1000
+002,Oros,Drinks,59.0,522
+004,Yoghurt,Dairy products,100.0,663
+005,FISH,MEAT,100.0,30
+01800,Volkano Speaker,Electronics,800.0,32

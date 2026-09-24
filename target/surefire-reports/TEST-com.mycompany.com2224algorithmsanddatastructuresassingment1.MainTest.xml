@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest" time="0.052" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="26"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\adolp\OneDrive\Documents\NetBeansProjects\COM2224AlgorithmsAndDataStructuresAssingment1\target\test-classes;C:\Users\adolp\OneDrive\Documents\NetBeansProjects\COM2224AlgorithmsAndDataStructuresAssingment1\target\classes;C:\Users\adolp\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\adolp\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\adolp\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\adolp\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\adolp\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\adolp\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\adolp\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Africa/Johannesburg"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="26"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin"/>
+    <property name="sun.java.command" value="C:\Users\adolp\AppData\Local\Temp\surefire8734219299285970670\surefirebooter-20260924145945391_3.jar C:\Users\adolp\AppData\Local\Temp\surefire8734219299285970670 2026-09-24T14-59-45_287-jvmRun1 surefire-20260924145945391_1tmp surefire_0-20260924145945391_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest"/>
+    <property name="surefire.test.class.path" value="C:\Users\adolp\OneDrive\Documents\NetBeansProjects\COM2224AlgorithmsAndDataStructuresAssingment1\target\test-classes;C:\Users\adolp\OneDrive\Documents\NetBeansProjects\COM2224AlgorithmsAndDataStructuresAssingment1\target\classes;C:\Users\adolp\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\adolp\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\adolp\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\adolp\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\adolp\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\adolp\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\adolp\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\adolp"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-04-21"/>
+    <property name="java.home" value="C:\Program Files\Apache NetBeans\jdk"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\adolp\OneDrive\Documents\NetBeansProjects\COM2224AlgorithmsAndDataStructuresAssingment1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\adolp\AppData\Local\Temp\surefire8734219299285970670\surefirebooter-20260924145945391_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="26.0.1+8"/>
+    <property name="user.name" value="adolp"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-26.0.1+8"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\Apache NetBeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\adolp\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\adolp\AppData\Local\Temp\"/>
+    <property name="java.version" value="26.0.1"/>
+    <property name="user.dir" value="C:\Users\adolp\OneDrive\Documents\NetBeansProjects\COM2224AlgorithmsAndDataStructuresAssingment1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python314\Scripts\;C:\Python314\;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\windows\system32\HWAudioDriver\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\cloudflared\;C:\Users\adolp\.local\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\adolp\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\adolp\AppData\Local\Programs\Python\Python312\;C:\Users\adolp\AppData\Local\hermes\bin;C:\Users\adolp\AppData\Local\agy\bin;C:\Users\adolp\AppData\Local\Microsoft\WindowsApps;C:\Users\adolp\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\adolp\AppData\Roaming\npm;C:\Users\adolp\.dotnet\tools;C:\Users\adolp\AppData\Local\Microsoft\WinGet\Packages\BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe\ripgrep-15.2.0-x86_64-pc-windows-msvc;C:\Users\adolp\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0-full_build\bin;C:\Users\adolp\AppData\Local\Programs\DockerDesktop\resources\bin;C:\Users\adolp\AppData\Local\Programs\Ollama;C:\Users\adolp\AppData\Local\Microsoft\WinGet\Packages\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe;D:\APPS\cursor\resources\app\bin;C:\Users\adolp\AppData\Local\Python\bin;C:\Users\adolp\AppData\Local\Programs\Antigravity IDE\bin;C:\Program Files\Apache NetBeans\bin\;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="26.0.1+8"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="70.0"/>
+  </properties>
+  <testcase name="testMergeSort" classname="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest" time="0.022">
+    <system-out><![CDATA[Running Test 5: Merge Sort (Sorting by Product ID)...
+✅ Test 5 Passed: Merge Sort correctly arranged the random inputs into alphabetical order.
+==================================================
+
+]]></system-out>
+  </testcase>
+  <testcase name="testLinearSearchFound" classname="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest" time="0.001">
+    <system-out><![CDATA[Running Test 2: Linear Search (Finding an existing product)...
+✅ Test 2 Passed: Linear Search correctly traversed the list and found the product.
+--------------------------------------------------
+]]></system-out>
+  </testcase>
+  <testcase name="testInsertion" classname="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest" time="0.002">
+    <system-out><![CDATA[Running Test 1: Insertion (Adding Products to Doubly Linked List)...
+✅ Test 1 Passed: Successfully inserted 2 products and updated head/tail pointers.
+--------------------------------------------------
+]]></system-out>
+  </testcase>
+  <testcase name="testLinearSearchNotFound" classname="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest" time="0.002">
+    <system-out><![CDATA[Running Test 3: Linear Search (Searching for non-existent product)...
+✅ Test 3 Passed: Linear Search safely handled a missing product (Returned null).
+--------------------------------------------------
+]]></system-out>
+  </testcase>
+  <testcase name="testRemoval" classname="com.mycompany.com2224algorithmsanddatastructuresassingment1.MainTest" time="0.002">
+    <system-out><![CDATA[Running Test 4: Removal (Deleting a product & updating pointers)...
+✅ Test 4 Passed: Removal deleted the product and correctly rewired the pointers.
+--------------------------------------------------
+]]></system-out>
+  </testcase>
+</testsuite>
